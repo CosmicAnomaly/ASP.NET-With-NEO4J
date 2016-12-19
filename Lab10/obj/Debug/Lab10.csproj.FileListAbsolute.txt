@@ -1,0 +1,15 @@
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Neo4j.Driver.dll
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.Abstractions.dll
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.dll
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Neo4j.Driver.pdb
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Neo4j.Driver.xml
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.pdb
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.xml
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.Abstractions.pdb
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\bin\Debug\Sockets.Plugin.Abstractions.xml
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Scott\Documents\School Work\Database\Lab10_\Lab10\Lab10\obj\Debug\Lab10.pdb
